@@ -14,7 +14,7 @@
 
 <br>
 
-<p> How to run the app locally: </p>
+<h2> How to run the app locally: </h2>
 
 <ol>
 <li> Run <code> yarn install </code> to install all needed dependencies </li>
